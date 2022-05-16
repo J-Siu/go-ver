@@ -1,6 +1,17 @@
-## go-ver
+# go-ver [![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
 
 Simple version variables and function.
+
+### Table Of Content
+<!-- TOC -->
+
+- [Usage](#usage)
+- [Repository](#repository)
+- [Contributors](#contributors)
+- [Change Log](#change-log)
+- [License](#license)
+
+<!-- /TOC -->
 
 ### Usage
 
